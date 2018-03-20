@@ -25,7 +25,7 @@ $nsg = New-AzureRmNetworkSecurityGroup -ResourceGroupName ais-rg
 [azure portal](http://portal.azure.com/)
     
     
-  
+[Getting started with Azure Virtual Networks and Network Security Group](getting-started-with-azure-virtual-networks-and-network-security-group)
  
 
 
