@@ -25,8 +25,7 @@ $nsg = New-AzureRmNetworkSecurityGroup -ResourceGroupName ais-rg
 [azure portal](http://portal.azure.com/)
     refno
     
-    dcfcedcv
-    
+    dcfcedc
     dscadfcvdfv
     dfv
     dfv
