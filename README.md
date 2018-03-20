@@ -10,11 +10,12 @@ In the new blade, search for **Network Security Group**
 
 <img src="/Images/2..png"/>
 
+*Nisha
  *Nisha
-
-  *Nisha
+  *nisha
+  
  
-   *Nisha
+
 
 
 
