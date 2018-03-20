@@ -17,7 +17,8 @@ In the new blade, search for **Network Security Group**
 ~~Nisha~~
 
 ````
-$nsg = New-AzureRmNetworkSecurityGroup -ResourceGroupName ais-rg -Location WestUS -Name "ais-web-nsg" -SecurityRules $rule1,$rule2
+$nsg = New-AzureRmNetworkSecurityGroup -ResourceGroupName ais-rg 
+-Location WestUS -Name "ais-web-nsg" -SecurityRules $rule1,$rule2
 ````
     
     
