@@ -3,7 +3,6 @@
 1. [Getting started with Azure Virtual Networks and Network Security Group](##getting-started-with-azure-virtual-networks-and-network-security-group)
 2. [Test Nisha](#test-nisha)
 
-
 <!-- /TOC -->
 
 # Getting started with Azure Virtual Networks and Network Security Group
