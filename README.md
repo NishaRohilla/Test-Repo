@@ -7,6 +7,7 @@ In this exercise, you will create an NSG from Azure Portal and add security rule
 <img src="/Images/1.png" width="250" height="250"/> 
 
 In the new blade, search for **Network Security Group**
+
 <img src="/Images/2.png" width="00" height="00"/> 
 
 
