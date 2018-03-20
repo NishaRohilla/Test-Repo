@@ -20,6 +20,8 @@ In the new blade, search for **Network Security Group**
 $nsg = New-AzureRmNetworkSecurityGroup -ResourceGroupName ais-rg 
 -Location WestUS -Name "ais-web-nsg" -SecurityRules $rule1,$rule2
 ````
+
+[virtual](http://www.portal.azure.com/)
     
     
   
